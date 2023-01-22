@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello everyone 👋
+
+## About me
+I'm 13 y/o girl who wanna be a fullstack developer. I'm currently learning web development.
+
+## Contact with me
+Discord
+cactus🌵#1843
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrine9176&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrine9176&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **katrine9176/katrine9176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
