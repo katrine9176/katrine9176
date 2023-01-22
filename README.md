@@ -5,6 +5,7 @@ I'm 13 y/o girl who wanna be a fullstack developer. I'm currently learning web d
 
 ## Contact with me
 Discord
+
 cactus🌵#1843
 
 ## Stats
@@ -13,6 +14,8 @@ cactus🌵#1843
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrine9176&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# Views
+![Profile views](https://komarev.com/ghpvc/?username=katrine9176&style=for-the-badge)
 <!--
 **katrine9176/katrine9176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
