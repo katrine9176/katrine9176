@@ -4,15 +4,19 @@
 I'm 13 y/o girl who wanna be a fullstack developer. I'm currently learning web development.
 
 ## Contact with me
-Discord
-
 cactus🌵#1843
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrine9176&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrine9176&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrine9176&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills
+- English: B1+
+- German: A2+
+- Spanish: A1+
+- Polish: native
 
 ### Views
 ![Profile views](https://komarev.com/ghpvc/?username=katrine9176&style=for-the-badge)
