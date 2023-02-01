@@ -13,7 +13,7 @@ cactus🌵#1843
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrine9176&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-- English: B1+
+- English: B1+/B2
 - German: A2+
 - Spanish: A1+
 - Polish: native
