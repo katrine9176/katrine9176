@@ -1,7 +1,7 @@
 # Hello everyone 👋
 
 ## About me
-I'm 13 y/o girl who wanna be a fullstack developer. I'm currently learning web development.
+I'm 13 y/o girl who wanna become a fullstack developer. I'm currently learning web development.
 
 ## Contact with me
 cactus🌵#1843
