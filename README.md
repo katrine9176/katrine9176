@@ -1,10 +1,10 @@
 # Hello everyone 👋
 
 ## About me
-I'm 13 y/o girl who wanna become a fullstack developer. I'm currently learning Vue.js.
+I'm 13 y/o girl who wanna become a fullstack developer. I'm currently learning React.js.
 
-## Contact with me
-cactus#0486
+## Contact with me on Discord
+cact_us
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrine9176&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,7 +13,7 @@ cactus#0486
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrine9176&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-- English: B1+/B2
+- English: B2
 - German: A2+
 - Spanish: A1+
 - Polish: native
